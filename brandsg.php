@@ -105,7 +105,7 @@ Rules? What are those?! RT is here to bring you the hottest outfits to break the
       <p style="font-size:14px;text-align:center;color:grey;padding:10px">ARTISTIC PICK</p>
       <p style="font-size:14px;text-align:center;padding-bottom:25px">Stripe Square Neck Cami</p>
       <p style="font-size:14px;text-align:center;color:black;font-weight:bold">Kshs 1,000</p><br><br>
-      <img src="images/Ladies27.jpg" alt="ladies27" style="width:100%;height:auto;">
+      <img src="images/ladies27.jpg" alt="ladies27" style="width:100%;height:auto;">
       <p style="font-size:14px;text-align:center;color:grey;padding:10px">ARTISTIC PICK</p>
       <p style="font-size:14px;text-align:center;padding-bottom:25px">Statement Lettuce Hem T-Shirt</p>
       <p style="font-size:14px;text-align:center;color:black;font-weight:bold">Kshs 1,000</p><br><br>
