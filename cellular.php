@@ -29,7 +29,7 @@
   <p style="font-size:14px;text-align:center;color:black;font-weight:bold">Kshs 20,000</p>
 </div>
   <div class="col-2 col-s-8">
-  <img src="images/samsungaO1.jpg" alt="samsungaO1" style="width:100%;height:auto">
+  <img src="images/samsungao1.jpg" alt="samsungao1" style="width:100%;height:auto">
   <p style="font-size:14px;text-align:center;padding-bottom:25px">Samsung AO1</p>
   <p style="font-size:14px;text-align:center;color:black;font-weight:bold">Kshs 24,000</p>
   </div>
